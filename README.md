@@ -1,4 +1,4 @@
-# Angular Pie Chart
+# Angular Calculator Pie Chart
 
 
 
